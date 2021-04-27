@@ -1,0 +1,91 @@
+{
+	"myInfo": {
+		"FirstName": "Ushneet",
+		"LastName": "Kaur",
+		"StudentNumber": "991584914",
+		"UserName": "kaurus",
+		"SheridanProgram": "Computer Programmer",
+		"HomeCountry": "India"
+	},
+	"zooData": [{
+			"zooName": "Oregon Zoo",
+			"zooCity": "Portland",
+			"zipCode": 97221,
+			"description": "The 64-acre Oregon Zoo is located in Portland, a city and surrounding metropolitan area of 2.26 million people. Annual attendance is more than 1.5 million, making the zoo the top paid attraction in the Pacific Northwest. ",
+			"photoUrl": "https://d1060ja7433lis.cloudfront.net/kr8BxxN8UG/apg_1507232961.jpg",
+			"zooID": 0
+		},
+		{
+			"zooName": "Denver Zoo",
+			"zooCity": "Denver",
+			"zipCode": 80205,
+			"description": "Our 84-acre campus is an enchanting urban field station, where 3,000+ wonderful wild animals serve as ambassadors for their wild counterparts all over the world. ",
+			"photoUrl": "https://d302e0npexowb4.cloudfront.net/wp-content/uploads/2017/03/denver-zoo-logo.jpg",
+			"zooID": 1
+		},
+		{
+			"zooName": "San Diego Zoo",
+			"zooCity": "San Diego",
+			"zipCode": 80205,
+			"description": "",
+			"photoUrl": "https://animals.sandiegozoo.org/themes/animals/images/see-us-in-person-banner-zoo.jpg",
+			"zooID": 2
+		},
+		{
+			"zooName": "Woodland Park Zoo",
+			"zooCity": "Seattle",
+			"zipCode": 98103,
+			"description": "WOODLAND PARK ZOO SAVES WILDLIFE AND INSPIRES EVERYONE TO MAKE CONSERVATION A PRIORITY IN THEIR LIVES.",
+			"photoUrl": "https://img.grouponcdn.com/deal/f5f3c5719806412f8ba2ce68e83d6947/47/v1/c700x420.jpg",
+			"zooID": 3
+		},
+		{
+			"zooName": "Cougar Mountain Zoo",
+			"zooCity": "Issaquah",
+			"zipCode": 98027,
+			"description": "THE COUGAR MOUNTAIN ZOO AND ZOOLOGICAL SOCIETY OF WASHINGTON ARE DEDICATED TO INCREASING THE UNDERSTANDING AND APPRECIATION OF THE EARTH’S WILDLIFE AND THE ROLE OF HUMANITY IN NATURE THROUGH EDUCATION, CONSERVATION, PROPAGATION AND EXHIBITION.",
+			"photoUrl": "https://img.grouponcdn.com/deal/7b38429b36ae47a7bbfd9c73d47072e8/e8/v1/c700x420.jpg",
+			"zooID": 4
+		},
+		{
+			"zooName": "Santa Barbara Zoo",
+			"zooCity": "Santa Barbara",
+			"zipCode": 93103,
+			"description": "The Santa Barbara Zoo is home to 146 species of mammals, reptiles, birds and insects. More than 500 animals are exhibited in open, naturalistic habitats.",
+			"photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSak2NeFEM-1ikI7o5eK8MbZXLqJOuEXbfTb7oC3gCWjOb7Dxocfw",
+			"zooID": 5
+		},
+		{
+			"zooName": "Point Defiance Zoo",
+			"zooCity": "Tacoma",
+			"zipCode": 98407,
+			"description": "Conservation is a passion that drives us to protect threatened species and their habitats, from the jungles of Borneo to our own animals here at the Zoo. ",
+			"photoUrl": "https://lh3.googleusercontent.com/-mamm3ScMgQI/UPnFXPBJN5I/AAAAAAAAAbU/9MZJjDziivI/s640/blogger-image--1087775604.jpg",
+			"zooID": 6
+		},
+		{
+			"zooName": "Los Angeles Zoo",
+			"zooCity": "Los Angeles",
+			"zipCode": 90027,
+			"description": "The Los Angeles Zoo and Botanical Gardens is a 133-acre zoo founded in 1966 and located in Los Angeles, California. The city of Los Angeles owns the entire zoo, its land and facilities, and the animals.",
+			"photoUrl": "https://i.ytimg.com/vi/b4f1drTmKtA/maxresdefault.jpg",
+			"zooID": 7
+		},
+		{
+			"zooName": "Oakland Zoo",
+			"zooCity": "Oakland",
+			"zipCode": 94605,
+			"description": "The Oakland Zoo is a zoo located in the Grass Valley neighborhood of Oakland, California, United States. Established in 1922, it is managed by the Conservation Society of California, a 501 non-profit organization dedicated to the conservation of wildlife both locally and globally.",
+			"photoUrl": "https://streamline.imgix.net/202ac70b-7007-4db3-a1ec-75a76cd7d6d2/06471cd6-952f-41c5-bea9-c916b9683cdb/zone-plan-your-visit.jpg?ixlib=rb-1.1.0&w=2000&h=2000&fit=max&s=add3c7055b07379c2377d063eb078442",
+			"zooID": 8
+		},
+		{
+			"zooName": "San Francisco Zoo",
+			"zooCity": "San Francisco",
+			"zipCode": 94132,
+			"description": "The San Francisco Zoo is a 100-acre zoo located in the southwestern corner of San Francisco, California, between Lake Merced and the Pacific Ocean along the Great Highway. As of 2016, the zoo housed more than one thousand individual animals, representing more than 250 species",
+			"photoUrl": "https://i.ytimg.com/vi/b4f1drTmKtA/maxresdefault.jpg",
+			"zooID": 9
+		}
+	]
+}
