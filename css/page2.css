@@ -1,0 +1,103 @@
+body {
+    font-size: 0.9em;
+    background-color: #e5eaf5;
+}
+#header {
+    grid-area: header;
+}
+.contentHeading{
+    grid-area: contentHeading;
+    margin: 0;
+    text-align: center;
+}
+#list1 {
+    grid-area: list1; 
+    padding: 0 5px; 
+    border-right: thick solid #494d5f; 
+    border-left: thick solid #494d5f; 
+    background-color: #d0bdf4;
+}
+
+#list2 {
+    grid-area: list2;
+    padding: 0 5px; 
+    border-right: thick solid #494d5f;
+    border-left: thick solid #494d5f; 
+    background-color: #d0bdf4;
+    
+}section{
+    padding: 0;
+}
+#footer {
+    grid-area: footer;
+}
+#gridArea {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-template-areas:
+    "header header"
+    "contentHeading contentHeading"
+	"list1 list2"
+    "footer footer"
+	;
+	gap: 5px;
+}
+.headerFormatting{
+    text-align: center;
+    color: #383b49;
+    font-family: 'Times New Roman', Times, serif;
+}
+.anchorCSS {
+    margin :5px 0;
+    padding: 5px; 
+    background-color: ivory; 
+    color: #494d5f; 
+    width: 100%;
+    font-weight: bold; 
+    text-decoration:none; 
+    box-shadow: 2px 2px 2px black;
+    border-top: 2px solid gray;
+    border-left: 2px solid gray;
+}
+.anchorButton{
+    text-align: center;
+    margin:10px 0; 
+    padding-top: 10px ;
+    width: 100%;
+}
+.headerStyle {text-align: center; 
+    font-family: Times New Roman; 
+    color: white; 
+    background: #494d5f;
+    padding: 5px 0;
+    margin: 2px 0;
+}
+img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+@media screen and (orientation: landscape) {
+	.list1, .list2{font-size: 1em;}
+	li {font-size: 1em;}
+}
+
+@media screen and (orientation: portrait) {
+    .headerStyle{padding: 6px 0;}
+	.list1, .list2{font-size: 1.3em;}
+    #gridArea {
+        grid-template-columns: 1fr;
+        grid-template-areas:
+        "header"
+        "contentHeading"
+        "list1"
+        " list2"
+        "footer";
+        gap: 5px;
+    }
+    p{font-size: 1.25em;}
+    h2{font-size: 1.65em;}
+    h3{font-size: 1.5em;}
+    h4{font-size: 1.3em;}
+    h5{font-size: 1.25em;}
+}
